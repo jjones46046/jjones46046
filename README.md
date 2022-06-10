@@ -4,4 +4,4 @@ database management using SQL and other tools, and machine learning. I am curren
 - You can shoot me an email @jjones46046@gmail.com to contact me or follow me on linkedIn https://www.linkedin.com/in/jared-jones-a47901177/.
 
 
-The following files are examples of code I have completed over my years at UMBC for various projects and homeworks. 
+Make sure to check out my repositories:
